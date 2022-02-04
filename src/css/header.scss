@@ -1,0 +1,34 @@
+.header {
+  padding: 22px 0 ;
+  box-shadow: $boxShadow;
+
+  &__nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  &__list{
+    display: flex;
+    column-gap: 50px;
+  }
+  &__link{
+    @include text($roboto , normal, normal , 18px , 21px , $blue );
+    transition: 0.4s;
+  }
+  &__link:hover{
+    color: #EE4248;
+    transition: 0.4s;
+  }
+  &__icons{
+    display: flex;
+    column-gap: 24px;
+  }
+  &__icon{
+   color:  rgba(31, 46, 53, 0.8);
+    transition: 0.4s;
+  }
+  &__icon:hover{
+    color: #EE4248;
+    transition: 0.4s;
+  }
+}

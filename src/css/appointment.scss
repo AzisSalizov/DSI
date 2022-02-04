@@ -1,0 +1,31 @@
+.appointment {
+  background-color: #F6F6F6;
+
+  &__content {
+    display: flex;
+    column-gap: 82px;
+  }
+  &__title {
+    @include text($roboto , normal, bold , 32px , 133.69% ,$darkgrey);
+    padding: 57px 0 24px;
+    span {
+      color: #EE4248;
+    }
+  }
+
+  &__text-top {
+    @include text($roboto , normal, normal , 18px , 150% ,$lightgrey);
+    padding: 0 0 25px 0;
+    span {
+      color: #EE4248;
+    }
+  }
+
+  &__text {
+    @include text($roboto , normal, normal , 18px , 150% ,$lightgrey);
+    span {
+      color: #EE4248;
+
+    }
+  }
+}

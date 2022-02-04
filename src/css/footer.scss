@@ -1,0 +1,15 @@
+.footer{
+  width: 100%;
+  margin: 0 auto;
+  height: 64px;
+  background: #EE4248;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &__content{
+
+  }
+  &__text{
+    @include text($roboto , normal, normal , 18px , 21px ,#FFFFFF);
+  }
+}

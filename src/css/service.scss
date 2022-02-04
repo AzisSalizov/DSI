@@ -1,0 +1,45 @@
+.service {
+  margin-top: 116px;
+
+  &__content {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  &__title-center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 47.36px;
+    @include text($roboto, normal, bold, 32px, 133.69%, $darkgrey);
+    text-align: center;
+  }
+
+  &__card {
+    width: 33.33333%;
+  }
+
+  &__image {
+    margin-bottom: 16.7px;
+  }
+
+  &__title {
+    @include text($roboto, normal, 500, 28px, 133.69%, $red);
+    margin-bottom: 15px;
+  }
+
+  &__text {
+    @include text($roboto, normal, normal, 18px, 150%, $lightgrey);
+    margin-bottom: 15px;
+
+    &.left {
+      margin-right: 92px;
+    }
+    &.center{
+      margin-right: 70px;
+    }
+    &.right{
+      margin-right: 80px;
+    }
+  }
+}

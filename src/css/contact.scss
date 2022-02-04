@@ -1,0 +1,47 @@
+.contact {
+  margin-bottom: 13px;
+
+  &__content {
+    width: 50%;
+    display: flex;
+    column-gap: 47px;
+
+  }
+
+  &__adress {
+    padding: 138px 0 0;
+
+
+    &-title {
+      @include text($roboto , normal, 600 , 18px , 21px ,$grey);
+      margin-bottom: 8px;
+    }
+
+  }
+
+  &__adres {
+    @include text($roboto , normal, 300 , 18px , 149.19% ,$grey);
+
+  }
+
+  &__content-img {
+    margin-bottom: 10px;
+
+  }
+
+  &__connection-title {
+    @include text($roboto , normal, 600 , 24px , 28px ,$grey);
+    margin-bottom: 25px;
+  }
+
+
+  &__connection {
+    padding: 161px 0 0;
+    &-Num{
+      @include text($roboto , normal, 300 , 16px , 149.19% ,$grey);
+
+    }
+
+  }
+
+}

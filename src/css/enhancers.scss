@@ -1,0 +1,17 @@
+$roboto: Roboto sans-serif;
+$boxShadow: 0 1px 4px rgba(0, 0, 0, 0.25);
+$blue: rgba(31, 46, 53, 0.8);
+$darkgrey: #1F2E35;
+$lightgrey: #30444E;
+$red: #EE4248;
+$grey: #263238;
+
+
+@mixin text($ff , $fs , $fw , $fz , $lh , $cor ) {
+  font-family: $ff;
+  font-style: $fs;
+  font-weight: $fw;
+  font-size: $fz;
+  line-height: $lh;
+  color: $cor;
+}

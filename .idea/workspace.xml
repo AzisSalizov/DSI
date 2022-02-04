@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f7f6a72-24ba-4b14-8d1d-20ea542e11b2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="21QQgKfj4OPYpwWsjkaHLcUJMh4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/images/service" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Azis\Desktop\Frontend 16-00\DSI\src\images\service" />
+      <recent name="C:\Users\Azis\Desktop\Frontend 16-00\DSI\src\images\Pana" />
+      <recent name="C:\Users\Azis\Desktop\Frontend 16-00\DSI\src\libs\fontello" />
+      <recent name="C:\Users\Azis\Desktop\Frontend 16-00\DSI\src\fonts\Roboto" />
+      <recent name="C:\Users\Azis\Desktop\Frontend 16-00\DSI\src\images\logo" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8f7f6a72-24ba-4b14-8d1d-20ea542e11b2" name="Default Changelist" comment="" />
+      <created>1637870946327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637870946327</updated>
+      <workItem from="1637870961068" duration="3067000" />
+      <workItem from="1637874605526" duration="4543000" />
+      <workItem from="1637879234778" duration="1717000" />
+      <workItem from="1637916693947" duration="2844000" />
+      <workItem from="1637937399746" duration="84000" />
+      <workItem from="1637943441361" duration="797000" />
+      <workItem from="1637959121891" duration="2057000" />
+      <workItem from="1638041923955" duration="4679000" />
+      <workItem from="1638046925673" duration="54000" />
+      <workItem from="1638047004803" duration="38000" />
+      <workItem from="1638047054802" duration="1464000" />
+      <workItem from="1638087782781" duration="137000" />
+      <workItem from="1638087947080" duration="3333000" />
+      <workItem from="1638105254315" duration="4000" />
+      <workItem from="1638191126912" duration="9000" />
+      <workItem from="1638202158978" duration="94000" />
+      <workItem from="1638202454788" duration="5383000" />
+      <workItem from="1638208087003" duration="50000" />
+      <workItem from="1638209254288" duration="783000" />
+      <workItem from="1638318217101" duration="174000" />
+      <workItem from="1638318431982" duration="1095000" />
+      <workItem from="1638319556451" duration="141000" />
+      <workItem from="1638319727824" duration="9000" />
+      <workItem from="1638319748590" duration="158000" />
+      <workItem from="1638319943276" duration="966000" />
+      <workItem from="1638320952916" duration="274000" />
+      <workItem from="1643976850758" duration="14000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1637961018453">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1637961018453" />
+  </component>
+</project>
